@@ -1,0 +1,33 @@
+{
+    "name": "ColourPalettes",
+    "description": "A tool for creating a colour palette and determining WCAG AA compliance",
+    "version": "0.0.1",
+    "author": "Justin Obara",
+    "bugs": "",
+    "homepage": "https://github.com/jobara/colourPalettes",
+    "dependencies": {},
+    "license": "BSD-3-Clause",
+    "keywords": [
+        "infusion",
+        "colour palette",
+        "color palette",
+        "application",
+        "colour",
+        "color",
+        "WCAG"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jobara/colourPalettes.git"
+    },
+    "main": "",
+    "scripts": {},
+    "engines": {
+        "node": ">=4.0.0"
+    },
+    "devDependencies": {
+        "grunt": "0.4.5",
+        "fluid-grunt-eslint": "18.1.2",
+        "grunt-jsonlint": "1.0.4"
+    }
+}
